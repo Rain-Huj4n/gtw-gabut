@@ -1,0 +1,1 @@
+print('panas tapi mendung')
